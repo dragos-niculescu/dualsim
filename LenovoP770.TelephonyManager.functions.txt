@@ -1,0 +1,110 @@
+03-11 13:11:53.843: D/Dual(10371): public boolean android.telephony.TelephonyManager.adjustModemRadioPower(int,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public boolean android.telephony.TelephonyManager.adjustModemRadioPowerByBand(int,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapApduRequest(int,java.lang.String,android.telephony.BtSimapOperResponse) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapConnectSIM(int,android.telephony.BtSimapOperResponse) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapDisconnectSIM() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapPowerOffSIM() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapPowerOnSIM(int,android.telephony.BtSimapOperResponse) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public int android.telephony.TelephonyManager.btSimapResetSIM(int,android.telephony.BtSimapOperResponse) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public void android.telephony.TelephonyManager.disableLocationUpdates() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.843: D/Dual(10371): public void android.telephony.TelephonyManager.disableLocationUpdatesGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public void android.telephony.TelephonyManager.enableLocationUpdates() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public void android.telephony.TelephonyManager.enableLocationUpdatesGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public boolean java.lang.Object.equals(java.lang.Object) declared by class java.lang.Object
+03-11 13:11:53.844: D/Dual(10371): public static android.telephony.TelephonyManager android.telephony.TelephonyManager.from(android.content.Context) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public java.util.List android.telephony.TelephonyManager.getAllCellInfo() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public int android.telephony.TelephonyManager.getCallState() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public int android.telephony.TelephonyManager.getCallStateGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public int android.telephony.TelephonyManager.getCdmaEriIconIndex() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public int android.telephony.TelephonyManager.getCdmaEriIconMode() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getCdmaEriText() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.844: D/Dual(10371): public android.telephony.CellLocation android.telephony.TelephonyManager.getCellLocation() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public android.telephony.CellLocation android.telephony.TelephonyManager.getCellLocationGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public final native java.lang.Class java.lang.Object.getClass() declared by class java.lang.Object
+03-11 13:11:53.845: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getCompleteVoiceMailNumber() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public int android.telephony.TelephonyManager.getCurrentPhoneType() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public int android.telephony.TelephonyManager.getDataActivity() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public int android.telephony.TelephonyManager.getDataState() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public int android.telephony.TelephonyManager.getDataStateGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public static android.telephony.TelephonyManager android.telephony.TelephonyManager.getDefault() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getDeviceId() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getDeviceIdGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getDeviceSoftwareVersion() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.845: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getIccCardType() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getIccCardTypeGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getIsimDomain() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getIsimImpi() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public [Ljava.lang.String; android.telephony.TelephonyManager.getIsimImpu() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getLine1AlphaTag() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getLine1AlphaTagGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getLine1Number() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getLine1NumberGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public int android.telephony.TelephonyManager.getLteOnCdmaMode() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public static int android.telephony.TelephonyManager.getMaxPdpNum(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public int android.telephony.TelephonyManager.getMissedCallCount() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public void android.telephony.TelephonyManager.getMobileRevisionAndIMEI(int,android.os.Message) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.846: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getMsisdn() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.util.List android.telephony.TelephonyManager.getNeighboringCellInfo() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.util.List android.telephony.TelephonyManager.getNeighboringCellInfoGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public static int android.telephony.TelephonyManager.getNetworkClass(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkCountryIso() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkCountryIsoGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkOperator() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkOperatorGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkOperatorName() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkOperatorNameGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public int android.telephony.TelephonyManager.getNetworkType() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public int android.telephony.TelephonyManager.getNetworkTypeGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkTypeName() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public static java.lang.String android.telephony.TelephonyManager.getNetworkTypeName(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.847: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getNetworkTypeNameGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public int android.telephony.TelephonyManager.getPhoneType() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public int android.telephony.TelephonyManager.getPhoneTypeGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public static int android.telephony.TelephonyManager.getRadioType(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSN() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimCountryIso() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimCountryIsoGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimOperator() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimOperatorGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimOperatorName() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimOperatorNameGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimSerialNumber() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.848: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSimSerialNumberGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public int android.telephony.TelephonyManager.getSimState() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public int android.telephony.TelephonyManager.getSimStateGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public int android.telephony.TelephonyManager.getSmsDefaultSim() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSpNameInEfSpn() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSpNameInEfSpnGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSubscriberId() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getSubscriberIdGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getVoiceMailAlphaTag() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getVoiceMailAlphaTagGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getVoiceMailNumber() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.getVoiceMailNumberGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public int android.telephony.TelephonyManager.getVoiceMessageCount() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.849: D/Dual(10371): public int android.telephony.TelephonyManager.getVoiceMessageCountGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.hasIccCard() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.hasIccCardGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public native int java.lang.Object.hashCode() declared by class java.lang.Object
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isIccCardProviderAsMvno() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isIccCardProviderAsMvnoGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isNetworkRoaming() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isNetworkRoamingGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.isOperatorMvnoForImsi() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.isOperatorMvnoForImsiGemini(int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isSmsCapable() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public boolean android.telephony.TelephonyManager.isVoiceCapable() declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public void android.telephony.TelephonyManager.listen(android.telephony.PhoneStateListener,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.850: D/Dual(10371): public void android.telephony.TelephonyManager.listenGemini(android.telephony.PhoneStateListener,int,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.851: D/Dual(10371): public final native void java.lang.Object.notify() declared by class java.lang.Object
+03-11 13:11:53.851: D/Dual(10371): public final native void java.lang.Object.notifyAll() declared by class java.lang.Object
+03-11 13:11:53.851: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.simAuth(java.lang.String) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.851: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.simAuthGemini(java.lang.String,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.851: D/Dual(10371): public java.lang.String java.lang.Object.toString() declared by class java.lang.Object
+03-11 13:11:53.851: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.uSimAuth(java.lang.String,java.lang.String) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.851: D/Dual(10371): public java.lang.String android.telephony.TelephonyManager.uSimAuthGemini(java.lang.String,java.lang.String,int) declared by class android.telephony.TelephonyManager
+03-11 13:11:53.851: D/Dual(10371): public final void java.lang.Object.wait() throws java.lang.InterruptedException declared by class java.lang.Object
+03-11 13:11:53.851: D/Dual(10371): public final void java.lang.Object.wait(long) throws java.lang.InterruptedException declared by class java.lang.Object
+03-11 13:11:53.851: D/Dual(10371): public final native void java.lang.Object.wait(long,int) throws java.lang.InterruptedException declared by class java.lang.Object
+03-11 13:11:53.864: D/Dual(10371): get slots
+03-11 13:11:53.872: D/Dual(10371): getCellLocation not found

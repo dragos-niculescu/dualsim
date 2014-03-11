@@ -1,10 +1,13 @@
 package com.example.dualsim;
 
-import android.app.Activity;
-import android.os.Bundle;
-import android.telephony.CellLocation;
-import android.telephony.gsm.GsmCellLocation;
+import java.util.List;
 
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+import android.telephony.CellInfo;
+import android.telephony.TelephonyManager;
+import android.telephony.gsm.GsmCellLocation;
 import android.view.Menu;
 import android.widget.TextView;
 
@@ -26,9 +29,10 @@ public class MainActivity extends Activity {
         GsmCellLocation cell1 =  (android.telephony.gsm.GsmCellLocation)telephonyInfo.getCellLocation1(); 
         GsmCellLocation cell2 =  (android.telephony.gsm.GsmCellLocation)telephonyInfo.getCellLocation2();
 
-        
         boolean isDualSIM = telephonyInfo.isDualSIM();
-
+        
+        
+        
         TextView tv = (TextView) findViewById(R.id.tv);
         tv.setText("\n" + 
                 " IS DUAL SIM : " + isDualSIM + "\n" +

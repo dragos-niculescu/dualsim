@@ -9,6 +9,7 @@ import java.lang.reflect.Method;
 import java.util.List;
 
 import android.content.Context;
+import android.telephony.CellInfo;
 import android.telephony.CellLocation;
 import android.telephony.NeighboringCellInfo;
 import android.telephony.TelephonyManager;
@@ -103,7 +104,19 @@ public final class TelephonyInfo {
                 for(int i = 0; i < l2.size(); i++){
                 	telephonyInfo.imeiSIM2 += "CID:" + (l2.get(i).getCid() + " LAC:" + l2.get(i).getLac() + " RSSI:" + (-113+2*l2.get(i).getRssi()) + "\n");
                 } 
+                /*
+                String cinfo = "";
                 
+                
+                List<CellInfo> lc = telephonyManager.getAllCellInfo();
+                 
+                for(int i=0; i<lc.size(); i++){
+                	cinfo += lc.get(i).toString();
+                }
+                
+                telephonyInfo.imeiSIM2 += cinfo + "\n"; 
+                */
+
 
             } catch (GeminiMethodNotFoundException e) {
                 e.printStackTrace();
